@@ -31,7 +31,7 @@ public class GroupPageTest {
         String actual = groupsPage.deleteBtn.getText();
         Assert.assertEquals(expected, actual);
 
-
+    //studymate
     }
 
     @Test
